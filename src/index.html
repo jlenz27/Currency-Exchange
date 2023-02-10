@@ -4,18 +4,11 @@
 </head>
 <body>
   <div class="container">
-    <h1>Get your USD currency exchanged into a</h1>
-    <p>To get the current weather conditions for a location, please enter the city name or the city and state separated by a comma. Here are three examples:</p>
-    <pre>
-      Portland
-      Atlanta, Georgia
-      cairo
-    </pre>
-    <form>
-      <label for="location">Enter a location:</label>
-      <input id="location" type="text" name="location">
-      <button type="submit" class="btn-success" id="weatherLocation">Get Current Temperature and Humidity</button>
-    </form>
+    <h1>Get your USD currency exchanged into the selected Currency:</h1>
+    <p>Please select a currency from the list below to have your USD converted to</p>
+    <label for="amount">Amount in USD:</label>
+    <input id="amount" type="number" required>
+    <button type="submit" class="btn btn-success">Click To Convert your Currency</button>
     <p id="showResponse"></p>
   </div>
 </body>
