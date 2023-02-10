@@ -1,0 +1,7 @@
+Startup notes:
+
+- Clone repo
+- Npm install
+- Change project names in 'package-lock.json'
+- Change project names in 'package.json'
+- Change project names in 'webpack.config.js'
