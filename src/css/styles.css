@@ -1,11 +1,12 @@
 .body{
   background-color: aqua;
-  color: beige;
 }
+.header{
+text-align: center;
+color: #ff0d00;
 
-
-/* Nice button styling option */
-/* .button {
+}
+* .button {
   margin: 20px;
   display: inline-block;
   padding: 15px 25px;
@@ -15,18 +16,18 @@
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: #ff0d00;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
 }
 
 .button:hover {
-  background-color: #3e8e41
+  background-color: #e42012
 }
 
 .button:active {
-  background-color: #3e8e41;
+  background-color: #3b2cc2;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
-} */
+}
