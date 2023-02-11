@@ -20,9 +20,9 @@
 _{The application allows for an entry of a number in the form and then returns a value in another currency based on the currency selected}_
 ### Setup
 - _Make an account at https://www.exchangerate-api.com/ click the free key in the top right corner and make an account._
-- _Download or clone repository _
+- _Download or clone repository_
 - _Open the program in VSCODE or another similar code writing software_
-- _create a .ENV File in the main directory and put API_KEY="your api key here"
+- _create a .ENV File in the main directory and put API_KEY="your api key here"_
 - _run npm install and then npm run build_
 - _npm run start to build and launch server_
 - _proceed to update files to reflect new project_
