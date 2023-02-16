@@ -33,6 +33,8 @@ _{The application allows for an entry of a number in the form and then returns a
 
 ## License
 
-_MIT_
-
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+ 
 Copyright (c) _2023_ _John Lenz_
